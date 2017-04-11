@@ -1,0 +1,9 @@
+{
+  "ArgumentVector":[
+    "$file"
+  ],
+  "CondaFile":null,
+  "ManagedEnvironment":true,
+  "TrackedRun":true,
+  "Target":"local"
+}

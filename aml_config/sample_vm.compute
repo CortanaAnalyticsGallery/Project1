@@ -1,0 +1,5 @@
+address: "IP_ADDRESS"
+username: "amit"
+password: "PASSWORD"
+cluster: False
+native: False
