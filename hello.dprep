@@ -14,7 +14,7 @@
               "target": 0,
               "resourceDetails": [
                 {
-                  "path": "https://1drv.ms/u/s!AlcLy_0nkfxIgvxmURRFJs5Ni2qfeA"
+                  "path": "https://joannasstorage.blob.core.windows.net/joannascontainer/TimeSeriesSensorData.csv"
                 }
               ]
             }
